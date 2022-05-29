@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Group2_Capstone</string>
+    
+    <string-array name="item_sale" >
+        <item>Item1</item>
+        <item>Item2</item>
+        <item>Item3</item>
+        <item>Item4</item>
+        <item>Item5</item>
+        <item>Item6</item>
+        <item>Item7</item>
+        <item>Item8</item>
+        <item>Item9</item>
+    </string-array>
+    <string-array name="item_desc" >
+        <item>Item1 Description</item>
+        <item>Item2 Description</item>
+        <item>Item3 Description</item>
+        <item>Item4 Description</item>
+        <item>Item5 Description</item>
+        <item>Item6 Description</item>
+        <item>Item7 Description</item>
+        <item>Item8 Description</item>
+        <item>Item9 Description</item>
+    </string-array>
+</resources>
